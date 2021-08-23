@@ -1,3 +1,5 @@
+(This is a clone as the original is private, this was a team effort and as a result not all work is my own)
+
 # DebtRunners
 A game about the hard life of a student that doesn't have rich parents
 
